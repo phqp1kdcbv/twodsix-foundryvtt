@@ -23,3 +23,5 @@ I've probably forgotten someone, tell me on the [Discord](https://discord.gg/VNF
 # I would like to join this list. How can I help the project?
 
 For more information, please refer to our [CONTRIBUTING](CONTRIBUTING.md) guide.
+
+<!-- Auto-update: 2025-10-15T15:09:26.409171 -->
